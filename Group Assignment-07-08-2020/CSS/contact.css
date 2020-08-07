@@ -1,0 +1,90 @@
+
+#table2{
+    
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.tr1 {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+    
+    
+}
+.tr1 td {
+    width: 200px;
+    height: 40px;
+    margin-right: 2px;
+    border-color: blue;
+    opacity: .87;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    
+
+}
+
+.tr1 td a {
+    text-decoration: none;
+    color: white;
+    
+}
+.tr1 td a:hover {
+    background-color: green;
+}
+    
+#table3 {
+    border: solid 1px;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+p {
+    text-align: justify;
+    padding: 0px 20px 0px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+  }
+  #def8 {
+      border: solid 1px;
+      background-color: rgb(224, 223, 223);
+      border-radius: 12px;
+  }
